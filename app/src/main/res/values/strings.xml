@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">infinite-scroll</string>
+
+    <string name="main_title">Infinite Scroll Provider</string>
+    <string name="main_endOfList">end of list</string>
+
+    <string name="dummy_name">abbas aliei</string>
+    <string name="dummy_number">+98 938 851 1753</string>
+
+</resources>
